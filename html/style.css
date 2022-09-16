@@ -1,0 +1,24 @@
+body {
+  background-color: #0D1012;
+  
+}
+
+.ib {
+}
+
+.terminal_window {
+  
+  text-align: center;
+  border-style: solid;
+  background-image: linear-gradient( #096BAD, #6A90B5);
+}
+
+.main_content { 
+  background: #FFFF;
+  
+}
+h1 {
+  color:  #F5F4EB;
+  font-family:  'Monospace';
+  font-weight: 100;
+}
